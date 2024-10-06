@@ -34,7 +34,7 @@ public class telegramBotWebhook {
                 System.out.println(lastMessages);
 
                 // TODO se llama la funcion que abre el melon de la IA :)
-                // String iaResult = getLLMResponse(lastMessages);
+                //String iaResult = getLLMResponse(lastMessages);
 
                 // sendTextMessage(chatId, iaResult);
             }
